@@ -1,2 +1,2 @@
-# 3-Bit-Adder-
+# 3-Bit-Adder
 Implement a 3-Bit adder using breadboard and seven segment displays
